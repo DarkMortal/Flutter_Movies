@@ -3,11 +3,11 @@ import 'package:desktop_app/ThemeProvider.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 TextStyle heading = GoogleFonts.notoSans(
-        textStyle: const TextStyle(
-            fontSize: 30.0, fontWeight: FontWeight.bold, color: Colors.white)),
+        textStyle:
+            const TextStyle(fontSize: 30.0, fontWeight: FontWeight.bold)),
     body = GoogleFonts.notoSans(
-        textStyle: const TextStyle(
-            fontSize: 25.0, fontWeight: FontWeight.bold, color: Colors.white)),
+        textStyle:
+            const TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold)),
     search = GoogleFonts.notoSans(
         textStyle:
             const TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold));
